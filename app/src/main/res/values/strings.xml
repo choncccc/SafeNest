@@ -1,0 +1,722 @@
+<resources>
+    <string name="app_name">SAFENEST</string>
+    <string name="label">HEALTHY MOMS, STRONG BABIES</string>
+    <string name="select_language_hint">Language</string>
+    <string name="enter_name">Please enter your name so that we know how to contact you.</string>
+    <string name="label_gestational">You need to calculate the gestational age and estimated due date
+    for the application to work correctly.</string>
+    <string name="enter_first">Enter the first day of your last period.</string>
+    <string name="estimated_dueDate">If you know the Estimated Due Date, you may enter it below:</string>
+
+    <string name="sixweek">Congratulations on reaching this milestone!
+        You might be experiencing common symptoms like implantation bleeding (light spotting), fatigue, breast tenderness,
+        and the onset of nausea and vomiting (morning sickness).</string>
+
+
+    <string name="week2">
+        At the start of this week, you ovulate. Your egg is fertilized 12 to
+        24 hours later if a sperm penetrates it. Over the next several
+        days, the fertilized egg will start dividing into multiple cells as it
+        travels down the fallopian tube, enters your uterus, and starts to
+        burrow into the uterine lining. \n\n
+        Here\'s what happens during the 2nd week: \n\n
+        Ovulation:\n
+        \t\t• Egg development: An egg starts maturing in one of your \n\t\t\t ovaries, inside a fluid-filled sac called a follicle.
+        \n\t\t• Hormonal changes: Levels of estrogen and \n\t\t\t follicle-stimulating
+        hormone (FSH) increase, stimulating the \n\t\t\t egg\'s growth.
+        \n\t\t• Ovulation event: Around day 14 (can vary depending on your
+        \n\t\t\t cycle), the mature egg ruptures from the follicle and is
+        \n\t\t\t released into the fallopian tube, ready for fertilization.
+
+        \n\nPossible symptoms you might experience:\n
+       \t\t• Mittelschmerz: A mild pain or twinge in your lower abdomen \n\t\t\t on one side, indicating ovulation.
+        \n\t\t• Cervical mucus changes: Mucus becomes thinner and \n\t\t\t clearer,
+        more receptive to sperm.\n\n
+
+        Remember:
+        \n\t\t• Consult with a healthcare professional if you have any
+        \n\t\t\t questions or concerns about your menstrual cycle or
+        \n\t\t\t conception.
+       \n\t\t• Accurate pregnancy dating starts from the first day of your
+        \n\t\t\t last menstrual period, not week 2.
+    </string>
+
+    <string name="week3">
+        Now nestled in the nutrient-rich lining of your uterus is a
+        microscopic ball of hundreds of rapidly multiplying cells that will
+        develop into your baby. This ball of cells, called a blastocyst, has
+        begun to produce the pregnancy hormone hCG, which tells your
+        ovaries to stop releasing eggs\n\nHere\'s what happens during the 3rd week: \n
+        \n\t\t• Implantation: This is the star of the show! By week 3, the
+        \n\t\t\t fertilized egg, now called a blastocyst, has traveled down
+        \n\t\t\t your fallopian tube and burrows itself into the lining of your
+        \n\t\t\t uterus. This process usually takes about 6-10 days after
+        \n\t\t\t ovulation
+
+        \n\t\t• Early cell differentiation: The blastocyst starts to \n\t\t\t differentiate
+        into two groups of cells: the inner cell mass \n\t\t\t (which will
+        eventually become your baby) and the outer layer \n\t\t\t (which will
+        form the placenta and other supportive \n\t\t\t structures).
+
+        \n\t\t• Placenta formation: The outer layer of the blastocyst begins
+        \n\t\t\t to develop into the placenta, a vital organ that will nourish
+        \n\t\t\t your baby and remove waste products throughout \n\t\t\t pregnancy.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Implantation bleeding: Some women experience light
+        \n\t\t\t spotting or bleeding around the time of implantation, which
+        \n\t\t\t can be mistaken for a period. This is usually nothing to worry
+        \n\t\t\t about, but if you have any concerns, consult your doctor.
+
+        \n\t\t• Breast tenderness: Rising hormone levels can make your
+        \n\t\t\t breasts feel swollen and tender.
+
+        \n\t\t• Fatigue: You might feel more tired than usual due to
+        \n\t\t\t hormonal changes and the body\'s increased energy \n\t\t\t demands.
+
+        \n\t\t• Food cravings or aversions: Some women experience \n\t\t\t changes
+        in their sense of taste and smell, leading to cravings \n\t\t\t for
+        certain foods or aversions to others.
+        \n\t\t• No symptoms: It\'s important to remember that not everyone
+        \n\t\t\t experiences pregnancy symptoms in the same way, and \n\t\t\t some
+        women might not feel anything at all in the early \n\t\t\t weeks.\n\n
+
+        Health interventions:
+        \n\t\t• Prenatal vitamin: Start taking a prenatal vitamin that \n\t\t\t contains
+        folic acid and other essential nutrients to support \n\t\t\t your baby\'s development.
+        \n\t\t•Healthy lifestyle: Focus on eating a balanced diet, getting
+        \n\t\t\t regular exercise, and staying hydrated.
+        \n\t\t• Doctor\'s visit: Schedule a prenatal appointment with your
+        \n\t\t\t doctor to discuss your pregnancy and any concerns you \n\t\t\t have.\n\n
+
+        Expectations for your body:
+        \n\t\t• Weight gain: You likely won\'t experience any significant \n\t\t\t weight gain in the third week.
+        \n\t\t• Basal body temperature: If you\'ve been tracking your basal \n\t\t\t body temperature, it should remain elevated after ovulation.
+        \n\t\t• Cervical mucus: Your cervical mucus might become thicker \n\t\t\t and creamier as your body prepares for implantation.\n\n
+
+        Remember:
+        \n\t\t• Every pregnancy is unique, and the experiences mentioned \n\t\t\t above are just general guidelines.
+        \n\t\t• If you have any concerns or questions, don\'t hesitate to \n\t\t\t talk to your doctor
+    </string>
+
+    <string name="week4">
+        Your ball of cells is now officially an embryo.
+        You\'re now about 4 weeks from the beginning of your last period.
+        It\'s around this time– when your next period would normally be due –
+        that you might be able to get a positive result on a home pregnancy test\n
+        \nYour baby is the size of a poppy seed\n\nHere\'s what happens during the 4th week:\n
+        \n\t\t• Rapid cell division: The inner cell mass from the blastocyst
+        \n\t\t\t apidly divides and forms three distinct layers: the ectoderm
+        \n\t\t\t (forms skin, hair, and nervous system), endoderm (forms
+        \n\t\t\t digestive and respiratory systems), and mesoderm (forms
+        \n\t\t\t muscles, bones, blood vessels, and other organs).
+        \n\t\t• Primitive streak formation: A line of cells appears within the
+        \n\t\t\t inner cell mass, called the primitive streak, which will
+        \n\t\t\t eventually develop into the baby\'s nervous system.
+
+        \n\t\t• Yolk sac development: A small sac outside the embryo, called
+        \n\t\t\t the yolk sac, provides early nourishment until the placenta
+        \n\t\t\t takes over.
+
+        \n\t\t• Amniotic sac development: A fluid-filled sac forms around \n\t\t\t the
+        embryo, creating a protective environment.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Implantation bleeding: Some women may still experience \n\t\t\tlight
+        spotting or bleeding.
+        \n\t\t• Breast tenderness and changes: Breasts may continue to feel
+        \n\t\t\t swollen and tender, and nipples may become darker.
+        \n\t\t• Fatigue: Feeling unusually tired is common due to hormonal
+        \n\t\t\t changes and increased energy demands.
+        \n\t\t• Nausea and vomiting: Morning sickness (which can occur at
+        \n\t\t\t any time of day) may start affecting some women.
+        \n\t\t• Food cravings or aversions: Changes in taste and smell can
+        \n\t\t\t lead to specific cravings or aversions.
+        \n\t\t• No symptoms: Remember, not everyone experiences
+        \n\t\t\t pregnancy symptoms in the same way, and some might not
+        \n\t\t\t feel anything yet.\n\n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintain taking your prenatal
+        \n\t\t\t vitamin for essential nutrients.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, regular exercise,
+        \n\t\t\t and proper hydration.
+        \n\t\t•Schedule prenatal appointment: If you haven\'t already, book
+        \n\t\t\t a prenatal appointment with your doctor for early pregnancy
+        \n\t\t\t check-ups and guidance.\n\n
+
+        Expectations for your body:
+        \n\t\t• Weight gain: Minimal weight gain, if any, is expected at this
+        \n\t\t\t stage.
+        \n\t\t• Basal body temperature: Likely remains elevated if you\'ve
+        \n\t\t\t been tracking it.
+        \n\t\t• Cervical mucus: May become thicker and stickier as your \n\t\t\t body
+        prepares for continued pregnancy.\n\n
+
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions.
+
+
+
+
+
+    </string>
+
+    <string name="week5">
+        \n Your baby resembles a tadpole more than a human, but is
+        \n growing fast. The circulatory system is beginning to form, and
+        \n cells in the tiny
+        "heart"
+        will start to flicker this week.\n\n
+        Your baby is the size of a sesame seed.\n\n
+
+        Here\'s what happens during the 5th week:\n
+        \n\t\t• Embryo growth: The embryo grows rapidly, reaching about
+        \n\t\t\t the size of a sesame seed.
+        \n\t\t• Neural tube formation: The neural tube forms, which will
+         \n\t\t\t eventually become the brain and spinal cord.
+        \n\t\t• Heart development: The tiny heart starts beating, although
+        \n\t\t\t it\'s still a simple tube structure.
+        \n\t\t• Blood vessel development: The first blood vessels form,
+        \n\t\t\t connecting the embryo to the developing placenta.
+        \n\t\t• Placenta development: The placenta continues to grow and
+        \n\t\t\t take over nourishing the embryo.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: Nausea and vomiting are common,
+        \n\t\t\t although not everyone experiences them.
+        \n\t\t• Breast tenderness and changes: Breasts may continue to feel
+        \n\t\t\t swollen and tender, and nipples may darken.
+        \n\t\t• Frequent urination: You might need to urinate more often
+        \n\t\t\t due to increased blood volume and pressure on the bladder.
+        \n\t\t• Food cravings or aversions: Changes in taste and smell can
+        \n\t\t\t  lead to specific preferences or dislikes.
+        \n\t\t• Bloating: Increased progesterone levels can cause bloating.
+        \n\t\t• No symptoms: Not everyone experiences pregnancy
+        \n\t\t\t symptoms, and some might not feel anything yet.\n\n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintain taking your prenatal
+        \n\t\t\t vitamin for essential nutrients.
+        \n\t\t• Schedule prenatal appointment: If you haven\'t already, book
+        \n\t\t\t a prenatal appointment with your doctor for early
+        \n\t\t\t pregnancy check-ups and guidance.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, regular exercise,
+        \n\t\t\t and proper hydration.\n\n
+
+
+        Expectations for your body:
+        \n\t\t• Weight gain: Minimal weight gain, if any, is expected at this
+        \n\t\t\t stage.
+        \n\t\t• Basal body temperature:  No longer relevant for tracking
+        \n\t\t\t pregnancy after ovulation.
+        \n\t\t• Cervical mucus: May become thicker and stickier to support \n\t\t\t pregnancy.\n\n
+
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions.
+    </string>
+
+
+    <string name="week6">
+        Your baby\'s nose, mouth and ears are starting to take shape, and
+        their intestines and brain are beginning to develop.\n\n
+        Your baby is the size of a lentil.\n\n
+        Here\'s what happens during the 6th week:\n
+        \n\t\t• Rapid growth: The embryo, now called a fetus, nearly
+        \n\t\t\tdoubles in size, reaching about the size of a lentil.
+        \n\t\t• Facial features: Tiny bumps appear where the eyes, nose,
+        \n\t\t\tand ears will eventually form.
+        \n\t\t• Limb development: Tiny buds form, which will develop into
+        \n\t\t\tarms and legs.
+        \n\t\t• Internal organ development: The heart continues to beat, \n\t\t\tand
+        the beginnings of the brain, lungs, and digestive system
+        \n\t\t\tappear.
+        \n\t\t• Placenta function: The placenta starts transferring nutrients
+        \n\t\t\tand oxygen to the fetus and removing waste products.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: This is still common, and it can affect
+        \n\t\t\twomen differently.
+        \n\t\t• Frequent urination: This continues due to increased blood
+        \n\t\t\tvolume and pressure on the bladder.
+        \n\t\t• Mood swings: Hormonal changes can cause emotional
+        \n\t\t\tfluctuations.
+        \n\t\t• Bloating: Increased progesterone levels can still cause \n\t\t\tbloating.
+        \n\t\t• No symptoms: Not everyone experiences pregnancy
+        \n\t\t\tsymptoms, and some might not feel anything yet.\n\n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintain taking your prenatal
+        \n\t\t\t vitamin for essential nutrients.
+        \n\t\t• Schedule prenatal appointment: If you haven\'t already, book
+        \n\t\t\t a prenatal appointment with your doctor for early
+        \n\t\t\t pregnancy check-ups and guidance.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, regular exercise,
+        \n\t\t\t(with doctor\'s approval), and proper hydration.\n\n
+
+         Expectations for your body:
+        \n\t\t• Weight gain: Minimal weight gain, if any, is expected at this
+        \n\t\t\t stage.
+        \n\t\t• Basal body temperature:  Not relevant for tracking
+        \n\t\t\t pregnancy anymore.
+        \n\t\t• Cervical mucus: May become thicker and stickier to support \n\t\t\t pregnancy.\n\n
+
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions.
+
+    </string>
+
+    <string name="week7">
+        Your baby has doubled in size since last week, but still has a tail,
+        which will soon disappear. Little hands and feet that look more
+        like paddles are emerging from the developing arms and legs.
+        \n\nYour baby is the size of a blueberry.
+        \n\nHere\'s what happens during the 7th week:\n
+        \n\t\t• Fetal growth spurt: The fetus grows rapidly, reaching about
+        \n\t\t\t the size of a blueberry.
+        \n\t\t• Facial structure: The facial features become more defined,
+        \n\t\t\t with eyes forming eyelids and nostrils appearing.
+        \n\t\t• Limb development: Arm and leg buds become more distinct,
+        \n\t\t\t with fingers and toes starting to develop.
+        \n\t\t• Organ development: The brain, lungs, digestive system, and
+        \n\t\t\t other organs continue to develop and become more \n\t\t\t complex.
+        \n\t\t• Nervous system development: The nervous system matures,
+        \n\t\t\t allowing for basic movements and reflexes.
+        \n\t\t• Circulatory system development: The heart beats strong and
+        \n\t\t\t pumps blood throughout the developing body.\n\n
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: This can continue for some women, though
+        \n\t\t\t it might start to improve for others.
+        \n\t\t• Fatigue: Tiredness remains common due to hormonal
+        \n\t\t\t  changes and increased energy demands.
+       \n\t\t• Breast tenderness and changes: Breasts may continue to feel
+        \n\t\t\t swollen and tender, and nipples may become darker and
+        \n\t\t\t larger.
+        \n\t\t• Increased appetite: As your body nourishes the growing\n\t\t\t fetus,
+        \n\t\t\t you might feel hungrier more often.
+        \n\t\t• Food cravings or aversions: Changes in taste and smell can
+        \n\t\t\t  still occur.
+        \n\t\t• Frequent urination: This continues due to increased blood
+        \n\t\t\t  volume and pressure on the bladder.
+        \n\t\t• Bloating: Progesterone levels can still cause bloating.
+        \n\t\t• Mood swings: Hormonal fluctuations can lead to emotional
+        \n\t\t\t  ups and downs.
+        \n\t\t• No symptoms: Not everyone experiences pregnancy
+        \n\t\t\t symptoms in the same way, and some might not feel \n\t\t\t  anything yet.\n\n
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: It\'s crucial to keep taking your
+        \n\t\t\t prenatal vitamin for essential nutrients.
+        \n\t\t• Schedule prenatal appointments: Attend regular check-ups
+        \n\t\t\t with your doctor to monitor your health and the baby\'s
+        \n\t\t\t development.
+        \n\t\t• Healthy lifestyle: Maintain a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t hydrated.
+        \n\t\t• Consider genetic testing: Discuss with your doctor if you
+        \n\t\t\t have any concerns or risk factors for genetic conditions and
+        \n\t\t\t whether genetic testing is right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Slight weight gain: You might start noticing a subtle increase
+        \n\t\t\t in weight as your body nourishes the fetus.
+        \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+        \n\t\t• Cervical mucus: May remain thick and sticky to support
+        \n\t\t\t pregnancy.
+        \n\t\t• Possible visible changes: Your clothes might start to feel a bit
+        \n\t\t\t snugger around your abdomen, but a noticeable baby bump
+        \n\t\t\t is unlikely at this stage.\n\n
+
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+
+
+    </string>
+    <string name="week9">
+        Your baby\'s basic anatomy is developing (they even have tiny earlobes now), but there\'s much more to come.
+        Their embryonic
+        tail has disappeared and they weigh just a fraction of an ounce
+        but are about to start gaining weight fast.\n\n
+        Your baby is the size of a grape.\n\n
+        Here\'s what happens during the 9th week:\n
+
+        \n\t\t• Fetal growth: The fetus grows significantly, reaching about
+        \n\t\t\t the size of a grape.
+        \n\t\t• Facial features: Facial features continue to become more
+        \n\t\t\t detailed, with eyelids opening and closing, and the
+        \n\t\t\t beginnings of teeth forming.
+        \n\t\t• Limb development: Fingers and toes are fully formed, with
+        \n\t\t\t tiny nails visible. Muscles and bones develop further,
+        \n\t\t\t allowing for more complex movements.
+        \n\t\t• Internal organs: Internal organs continue to mature rapidly,
+        \n\t\t\t with the brain showing significant development and the
+        \n\t\t\t digestive system becoming more functional.
+        \n\t\t• Genital development: Genitals develop more externally, and
+        \n\t\t\t in some cases, the baby\'s sex may be discernible through
+        \n\t\t\t ultrasound.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: For some women, this may start to improve
+        \n\t\t\t or lessen in intensity.
+        \n\t\t• Fatigue: While still common, fatigue might decrease as your
+        \n\t\t\t body adjusts to hormonal changes.
+        \n\t\t• Increased appetite and food cravings/aversions: Your body
+        \n\t\t\t needs more fuel for growth, leading to increased hunger
+        \n\t\t\t and potential changes in taste and smell.
+        \n\t\t• Breast tenderness and changes: Breasts may still feel swollen
+        \n\t\t\t and tender, but the tenderness typically starts to decrease.
+        \n\t\t• Frequent urination: This continues due to increased blood
+        \n\t\t\t volume and pressure on the bladder.
+        \n\t\t• Mood swings: Hormonal fluctuations can still cause
+        \n\t\t\t emotional ups and downs, but hopefully less intense than
+        \n\t\t\t before.
+        \n\t\t• Visible changes: You might start noticing a slight bump
+        \n\t\t\t around your lower abdomen, although it\'s not yet a true
+        \n\t\t\t baby bump.
+        \n\t\t• No symptoms: Remember, not everyone experiences
+        \n\t\t\t pregnancy symptoms in the same way, and some might not
+        \n\t\t\t feel anything yet.\n\n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintaining your prenatal vitamin
+        \n\t\t\t intake is crucial for continued development.
+        \n\t\t• Schedule prenatal appointments: Regular check-ups with
+        \n\t\t\t your doctor help monitor your health and the baby\'s
+        \n\t\t\t progress.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t adequately hydrated.
+        \n\t\t• Consider prenatal screening: Discuss with your doctor
+        \n\t\t\t whether prenatal screening tests like ultrasound or genetic
+        \n\t\t\t testing are right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Gradual weight gain: You might notice a steady increase in
+        \n\t\t\t weight as your body nourishes the growing fetus.
+        \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+        \n\t\t• Cervical mucus: May remain thick and sticky to support
+        \n\t\t\t pregnancy.
+        \n\t\t• Possible visible changes: A slight bump around your lower
+        \n\t\t\t abdomen might be noticeable, but a prominent baby bump
+        \n\t\t\t  is still not typical.\n\n
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+    </string>
+    <string name="week8">
+        Your baby has started moving around, though you won\'t feel your
+        baby move yet. Nerve cells are branching out, forming primitive
+        neural pathways. Breathing tubes now extend from their throat to
+        their developing lungs.\n\n
+
+        Your baby is the size of a kidney bean.\n\n
+        Here\'s what happens during the 8th week:\n
+        \n\t\t• Fetal growth: The fetus grows dramatically, reaching about
+        \n\t\t\t  the size of a kidney bean.
+        \n\t\t• Facial features: Facial features continue to become more
+        \n\t\t\t  defined, with eyelids closing completely for a short period
+        \n\t\t\t  and the nose becoming more prominent.
+        \n\t\t•Limb development: Fingers and toes are fully formed, with
+        \n\t\t\t  tiny nails starting to appear.
+        \n\t\t• Muscle and bone development: Muscles and bones start to
+        \n\t\t\t  develop, allowing for basic movements like flexing and
+        \n\t\t\t kicking.
+        \n\t\t• Internal organs: Internal organs continue to mature, with the
+        \n\t\t\t  brain showing significant development and the digestive
+        \n\t\t\t system becoming more functional
+        \n\t\t• Genital development: Genitals begin to develop externally,
+        \n\t\t\t although it\'s still too early to determine the baby\'s sex.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: This might start to improve for some
+        \n\t\t\t women, while others might continue to experience it.
+        \n\t\t• Fatigue: Tiredness remains common due to hormonal
+        \n\t\t\t changes and increased energy demands.
+        \n\t\t• Increased appetite and food cravings/aversions: Your body
+       \n\t\t\t needs more fuel for growth, leading to increased hunger
+         \n\t\t\t and potential changes in taste and smell.
+        \n\t\t• Breast tenderness and changes: Breasts may continue to feel
+         \n\t\t\t swollen and tender, with nipples becoming darker and  \n\t\t\t larger.
+        \n\t\t• Frequent urination: This continues due to increased blood
+         \n\t\t\t volume and pressure on the bladder.
+        \n\t\t• Mood swings: Hormonal fluctuations can still cause
+        \n\t\t\t emotional ups and downs.
+        \n\t\t• Visible changes: You might start noticing subtle changes in
+         \n\t\t\t your body shape, but a pronounced baby bump is unlikely
+         \n\t\t\t yet.
+        \n\t\t• No symptoms: Remember, not everyone experiences
+         \n\t\t\t pregnancy symptoms in the same way, and some might not
+         \n\t\t\t feel anything yet.
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintaining your prenatal vitamin
+        \n\t\t\t intake is crucial for continued development.
+        \n\t\t• Schedule prenatal appointments: Regular check-ups with
+        \n\t\t\t your doctor help monitor your health and the baby\'s
+        \n\t\t\t progress.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t adequately hydrated.
+        \n\t\t• Consider prenatal screening: Discuss with your doctor
+        \n\t\t\t whether prenatal screening tests like ultrasound or genetic
+        \n\t\t\t testing are right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Slight weight gain: You might start noticing a subtle increase
+        \n\t\t\t in weight as your body nourishes the fetus.
+        \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+        \n\t\t• Cervical mucus: May remain thick and sticky to support
+        \n\t\t\t pregnancy.
+        \n\t\t• Possible visible changes: Clothes might feel a bit snugger,
+        \n\t\t\t but a prominent baby bump is still not typical.\n\n
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+
+    </string>
+    <string name="week10">
+        Your embryo has completed the most critical portion of
+        development. Their skin is still translucent, but their tiny limbs can
+        bend and fine details like nails are starting to form.\n\n
+        Your baby is the size of a kumquat.\n\n
+        Here\'s what happens during the 10th week:\n
+        \n\t\t• Fetal growth: The fetus grows significantly, reaching about
+        \n\t\t\t the size of a kumquat.
+        \n\t\t• Facial features: Facial features continue to refine, with the
+        \n\t\t\t nose becoming more prominent and the lips forming.
+        \n\t\t• Limb development: Fingers and toes are fully formed with
+        \n\t\t\t tiny fingernails and toenails. Muscles and bones develop
+        \n\t\t\tfurther, allowing for more complex movements like kicking
+        \n\t\t\tand flexing.
+        \n\t\t• Internal organs: Internal organs continue to mature rapidly,
+        \n\t\t\t with the brain showing complex activity and the digestive
+        \n\t\t\t system becoming even more functional.
+        \n\t\t• Genital development: Genitals are fully formed, and the
+        \n\t\t\t baby\'s sex is usually determinable through ultrasound if
+        \n\t\t\t desired.\n\n
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: This tends to improve significantly for most
+        \n\t\t\t women by this week, although some may still experience
+        \n\t\t\t nausea or vomiting occasionally.
+        \n\t\t• Increased energy: As your body adjusts to hormonal
+        \n\t\t\t changes, you may feel more energetic than in previous
+        \n\t\t\tweeks.
+        \n\t\t• Increased appetite and food cravings/aversions: Your body
+        \n\t\t\t still needs more fuel, but cravings may become less intense
+       \n\t\t\t or even disappear.
+        \n\t\t• Breast tenderness and changes: Breasts may still feel slightly
+        \n\t\t\t tender, but the discomfort should be significantly reduced.
+        \n\t\t• Frequent urination: This continues due to increased blood
+        \n\t\t\t volume and pressure on the bladder, but might become less
+        \n\t\t\t frequent than before.
+        \n\t\t• Mood swings: Emotional fluctuations can still occur, but
+        \n\t\t\t hopefully less intense and frequent than earlier weeks.
+        \n\t\t• Visible changes: You might start noticing a more defined
+        \n\t\t\t bump around your lower abdomen, marking the beginning
+        \n\t\t\t of your visible baby bump.
+        \n\t\t• No symptoms: Remember, not everyone experiences
+        \n\t\t\t pregnancy symptoms in the same way, and some might not
+        \n\t\t\t feel anything noticeable.\n\n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintaining your prenatal vitamin
+        \n\t\t\t intake is crucial for continued development.
+        \n\t\t• Schedule prenatal appointments: Regular check-ups with
+        \n\t\t\t your doctor help monitor your health and the baby\'s
+        \n\t\t\t progress.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t adequately hydrated.
+        \n\t\t• Consider prenatal screening: Discuss with your doctor
+        \n\t\t\t whether prenatal screening tests like ultrasound or genetic
+        \n\t\t\t testing are right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Steady weight gain: You might notice a steady increase in
+        \n\t\t\t weight as your body nourishes the growing fetus.
+         \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+         \n\t\t• Cervical mucus: May remain thick and sticky to support
+       \n\t\t\t  pregnancy, but becoming less so gradually.
+        \n\t\t• Visible changes: A more defined bump around your lower
+        \n\t\t\t abdomen is likely, marking the start of your visible baby bump.\n\n
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+    </string>
+
+    <string name="week11">
+        Your baby is almost fully formed. They\'re kicking, stretching, and
+        even hiccupping as their diaphragm develops, although you can\'t
+        feel any activity yet.\n\n
+        Your baby is the size of a fig.\n\n
+        Here\'s what happens during the 11th week:
+        \n\t\t• Fetal growth: The fetus grows significantly, reaching about
+        \n\t\t\t the size of a fig.
+        \n\t\t• Facial features: Facial features continue to refine, with
+        \n\t\t\t distinct human characteristics like eyelids, lips, and a tiny
+        \n\t\t\t nose becoming more prominent.
+        \n\t\t• Limb development: Fingers and toes are fully formed with
+        \n\t\t\t tiny fingernails and toenails, and the baby might start
+        \n\t\t\t flexing and stretching limbs.
+        \n\t\t• Internal organs: Internal organs continue to mature rapidly,
+        \n\t\t\t with the brain showing complex activity, the digestive
+        \n\t\t\t system becoming more functional, and the kidneys starting
+        \n\t\t\t to produce urine.
+        \n\t\t• Skeletal development: Bones become harder and more
+        \n\t\t\t developed, allowing for more coordinated movements.
+        \n\t\t• Genital development: Genitals are fully formed, and the
+        \n\t\t\t baby\'s sex is usually determinable through ultrasound if
+        \n\t\t\t desired.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Morning sickness: This should significantly improve for most
+        \n\t\t\t women, although occasional nausea or vomiting might still
+        \n\t\t\t occur.
+        \n\t\t• Increased energy: You might feel more energetic than in
+        \n\t\t\t previous weeks as your body adjusts to hormonal changes.
+        \n\t\t\tIncreased appetite and food cravings/aversions: Your body
+        \n\t\t\t still needs more fuel, but cravings may become less intense
+        \n\t\t\t or even disappear.
+        \n\t\t•Breast tenderness and changes: Breasts may still feel slightly
+        \n\t\t\t tender, but the discomfort should be significantly reduced.
+        \n\t\t• Frequent urination: This continues due to increased blood
+        \n\t\t\t volume and pressure on the bladder, but might become less
+        \n\t\t\t frequent than before.
+        \n\t\t• Mood swings: Emotional fluctuations can still occur, but
+        \n\t\t\t hopefully less intense and frequent than earlier weeks.
+        \n\t\t• Visible changes: Your baby bump becomes more noticeable
+        \n\t\t\t and defined, and some women might start experiencing skin
+        \n\t\t\t changes like a pregnancy glow.
+        \n\t\t• No symptoms: Remember, not everyone experiences
+        \n\t\t\t pregnancy symptoms in the same way, and some might not
+        \n\t\t\tfeel anything noticeable.\n \n
+
+        Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintaining your prenatal vitamin
+        \n\t\t\t intake is crucial for continued development.
+        \n\t\t• Schedule prenatal appointments: Regular check-ups with
+        \n\t\t\t your doctor help monitor your health and the baby\'s
+        \n\t\t\t progress.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t adequately hydrated.
+        \n\t\t• Consider prenatal screening: Discuss with your doctor
+        \n\t\t\t whether prenatal screening tests like ultrasound or genetic
+        \n\t\t\t testing are right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Steady weight gain: You might notice a steady increase in
+        \n\t\t\t weight as your body nourishes the growing fetus.
+         \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+         \n\t\t• Cervical mucus: May remain thick and sticky to support
+       \n\t\t\t  pregnancy, but becoming less so gradually.
+        \n\t\t• Visible changes: A more defined bump around your lower
+        \n\t\t\t abdomen is likely, marking the start of your visible baby
+        \n\t\t\t bump.\n\n
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+
+    </string>
+
+
+    <string name="week12">
+        This week your baby\'s reflexes kick in: Their fingers will soon begin
+        to open and close, toes will curl, and their mouth will make
+        sucking movements.\n\n
+        Your baby is the size of a lime.\n\n
+        Here\'s what happens during the 12th week:\n
+        \n\t\t• Entering the second trimester: This week marks the exciting
+        \n\t\t\t transition into the second trimester, which is often referred
+        \n\t\t\t to as the "honeymoon phase" due to decreased nausea and
+        \n\t\t\t increased energy levels for many women.
+       \n\t\t• Fetal growth: The fetus grows significantly, reaching about
+        \n\t\t\t the size of a lime.
+        \n\t\t• Facial features: Facial features continue to develop with
+        \n\t\t\t distinct characteristics becoming more recognizable,
+        \n\t\t\t including eyebrows, eyelids, and a more defined nose.
+        \n\t\t• Limb development: Fingers and toes are fully formed with
+        \n\t\t\t tiny fingernails and toenails, and the baby might start
+        \n\t\t\t grasping, sucking their thumb, and making more
+        \n\t\t\t coordinated movements.
+        \n\t\t• Internal organs: Internal organs continue to mature rapidly,
+        \n\t\t\t with the brain showing complex activity, the digestive
+        \n\t\t\t system absorbing nutrients from swallowed amniotic fluid,
+        \n\t\t\t and the kidneys functioning more efficiently.
+        \n\t\t• Skeletal development: Bones become stronger and more
+        \n\t\t\t developed, allowing for more coordinated movements and
+        \n\t\t\t muscle development.
+        \n\t\t• Genital development: Genitals are fully formed, and the
+        \n\t\t\t baby\'s sex is usually determinable through ultrasound if
+        \n\t\t\t desired.\n\n
+
+        Possible signs and symptoms:
+        \n\t\t• Reduced morning sickness: For most women, the dreaded
+        \n\t\t\t morning sickness should significantly improve or disappear
+        \n\t\t\t altogether by this week.
+        \n\t\t• Increased energy: You might feel more energetic and vibrant
+        \n\t\t\t as hormonal changes stabilize and nausea subsides.
+        \n\t\t• Increased appetite: Your body needs more fuel for the
+        \n\t\t\t growing baby, so you might feel hungrier more often.
+        \n\t\t• Food cravings/aversions: While still possible, these
+        \n\t\t\t  tendencies
+        \n\t\t\t often become less intense or disappear entirely.
+        \n\t\t• Reduced breast tenderness: The discomfort in your breasts
+        \n\t\t\t should be significantly reduced by now.
+        \n\t\t• Frequent urination: You might still need to urinate more often
+        \n\t\t\t due to increased blood volume and pressure on the bladder,
+        \n\t\t\t but less frequently than earlier weeks.
+        \n\t\t• Mood swings: Emotional fluctuations might still occur, but
+        \n\t\t\t hopefully less intense and frequent than in the first
+        \n\t\t\t trimester.
+        \n\t\t•Visible changes: Your baby bump becomes more noticeable
+        \n\t\t\t and defined, and some women might start experiencing skin
+        \n\t\t\t changes like a"pregnancy glow" or linea nigra (a dark line
+        \n\t\t\t down the abdomen).
+        \n\t\t• No symptoms: Remember, not everyone experiences
+        \n\t\t\t pregnancy symptoms in the same way, and some might not
+        \n\t\t\t feel anything noticeable.\n\n
+
+         Health interventions:
+        \n\t\t• Continue prenatal vitamin: Maintaining your prenatal vitamin
+        \n\t\t\t intake is crucial for continued development.
+        \n\t\t• Schedule prenatal appointments: Regular check-ups with
+        \n\t\t\t your doctor help monitor your health and the baby\'s
+        \n\t\t\t progress.
+        \n\t\t• Healthy lifestyle: Prioritize a balanced diet, engage in
+        \n\t\t\t moderate exercise (approved by your doctor), and stay
+        \n\t\t\t adequately hydrated.
+        \n\t\t• Consider prenatal screening: Discuss with your doctor
+        \n\t\t\t whether prenatal screening tests like ultrasound or genetic
+        \n\t\t\t testing are right for you.\n\n
+
+        Expectations for your body:
+        \n\t\t• Steady weight gain: You might notice a steady increase in
+        \n\t\t\t weight as your body nourishes the growing fetus.
+         \n\t\t• Basal body temperature: No longer relevant for tracking
+        \n\t\t\t pregnancy.
+         \n\t\t• Cervical mucus: May remain thick and sticky to support
+       \n\t\t\t  pregnancy, but becoming less so gradually.
+        \n\t\t• Visible changes: A more defined bump around your lower
+        \n\t\t\t abdomen is likely, marking the start of your visible baby
+        \n\t\t\t bump.\n\n
+        Remember:
+        \n\t\t• Every pregnancy is unique, and these are general guidelines.
+        \n\t\t• Consult your doctor with any concerns or questions you have
+        \n\t\t\t about your pregnancy health and well-being.
+    </string>
+
+</resources>
