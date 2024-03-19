@@ -20,6 +20,7 @@ class ReadingFragment : Fragment() {
         return binding.root
     }
 
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
@@ -27,6 +28,9 @@ class ReadingFragment : Fragment() {
             updateFragment(FirstTrimesterDescrip())
         }
 
+        binding.SecondTrimesterCard.setOnClickListener{
+            updateFragment(SecondTrimester())
+        }
 
     }
 

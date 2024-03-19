@@ -135,7 +135,7 @@
           android:textColor="@color/white" />
 
       <Button
-          android:id="@+id/btnNext"
+          android:id="@+id/commitToHome"
           android:layout_width="300dp"
           android:layout_height="45dp"
           android:backgroundTint="@color/fc"

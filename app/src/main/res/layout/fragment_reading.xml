@@ -99,7 +99,7 @@
             </LinearLayout>
 
             <LinearLayout
-                android:id="@+id/second_trimester"
+                android:id="@+id/SecondTrimesterCard"
                 android:clickable="true"
                 android:focusable="true"
                 android:layout_width="wrap_content"

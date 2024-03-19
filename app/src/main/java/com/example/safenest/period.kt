@@ -10,7 +10,7 @@ class period : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_period)
-        periodNext =findViewById(R.id.btnNext)
+        periodNext =findViewById(R.id.commitToHome)
         periodNext.setOnClickListener(){
             val intent = Intent(this, home::class.java)
             startActivity(intent)

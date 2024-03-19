@@ -26,15 +26,6 @@
                 </Key>
               </deviceKey>
             </Target>
-            <Target>
-              <type value="RUNNING_DEVICE_TARGET" />
-              <deviceKey>
-                <Key>
-                  <type value="SERIAL_NUMBER" />
-                  <value value="adb-1051c05d0410-RtDCnR._adb-tls-connect._tcp" />
-                </Key>
-              </deviceKey>
-            </Target>
           </runningDeviceTargetsSelectedWithDialog>
         </State>
       </entry>

@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:layout_gravity="center"
     android:background="@color/red"
-    tools:context=".MainActivity">
+    tools:context=".LoginPage">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -69,6 +69,7 @@
             android:textColor="@color/fffff"
             android:layout_marginBottom="3dp"/>
         <EditText
+            android:id="@+id/login_username"
             android:layout_width="280dp"
             android:layout_height="40dp"
             android:background="@drawable/edit_round"
@@ -85,7 +86,7 @@
             android:textColor="@color/fffff"
             android:layout_marginBottom="3dp"/>
         <EditText
-            android:id="@+id/txtPassword"
+            android:id="@+id/login_password"
             android:layout_width="280dp"
             android:layout_height="40dp"
             android:inputType="textPassword"
