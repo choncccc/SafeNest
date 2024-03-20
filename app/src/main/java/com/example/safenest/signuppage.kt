@@ -15,7 +15,6 @@ class SignUpPage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup_page)
 
-        val dbHelper = DatabaseHelper(this@SignUpPage)
         val commitSignUp = findViewById<Button>(R.id.commitSignUp)
 
         commitSignUp.setOnClickListener{

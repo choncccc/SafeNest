@@ -6,11 +6,12 @@ import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import android.util.Log
 
-val TABLE_NAME = "UserInfo"
+val TABLE_NAME = "WithCountTB"
 val COL_ID = "userID"
 val COL_USERNAME= "Username"
 val COL_PASSWORD= "Password"
 val COL_NAME = "Name"
+val  COL_LOGIN_COUNTER = "LoginCounter"
 
 //on NextPage after signup
 val COL_FIRSTDAYLASTPERIOD = "firstDayLastPeriod"
@@ -25,7 +26,8 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME
                 COL_ID + " INTEGER PRIMARY KEY AUTOINCREMENT," +
                 COL_USERNAME + " VARCHAR(256)," +
                 COL_NAME + " VARCHAR(256)," +
-                COL_PASSWORD + " VARCHAR(256)" +
+                COL_PASSWORD + " VARCHAR(256)," +
+                COL_LOGIN_COUNTER + " INTEGER DEFAULT 0" +
                 ")"
         db.execSQL(createTable)
     }
@@ -71,8 +73,36 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME
         db.close()
         return name
     }
+    fun incrementLoginCounter(username: String) {
+        val db = this.writableDatabase
+        val currentLoginCounter = getLoginCounterByUsername(username) // Retrieve current login counter
+        val newLoginCounter = if (currentLoginCounter == -1) {
+            1
+        } else {
+            currentLoginCounter + 1
+        }
 
+        val contentValues = ContentValues().apply {
+            put(COL_LOGIN_COUNTER, newLoginCounter)
+        }
+        db.update(TABLE_NAME, contentValues, "$COL_USERNAME = ?", arrayOf(username))
+        db.close()
+    }
 
+    fun getLoginCounterByUsername(username: String): Int {
+        var loginCounter = -1
+        val db = this.readableDatabase
+        val query = "SELECT $COL_LOGIN_COUNTER FROM $TABLE_NAME WHERE $COL_USERNAME = ?"
+        val cursor = db.rawQuery(query, arrayOf(username))
+        if (cursor.moveToFirst()) {
+            val columnIndex = cursor.getColumnIndex(COL_LOGIN_COUNTER)
+            if (columnIndex != -1) {
+                loginCounter = cursor.getInt(columnIndex)
+            }
+        }
+        cursor.close()
+        return loginCounter
+    }
 
     override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
         //Alter tables here
@@ -81,6 +111,6 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME
 
     companion object {
         private const val DATABASE_VERSION = 1
-        private const val DATABASE_NAME = "testDB"
+        private const val DATABASE_NAME = "WithCounterDB"
     }
 }

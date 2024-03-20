@@ -30,8 +30,13 @@ class LoginPage : AppCompatActivity() {
             val isValidUser = dbHelper.checkUser(username, password)
 
             if (isValidUser) {
-                // Navigate to the home activity
-                navigateToHome(username, password)
+                val loginCounter = dbHelper.getLoginCounterByUsername(username)
+                if (loginCounter == 0) {
+                    navigateToFirstLoginLayouts(username, password)
+                    dbHelper.incrementLoginCounter(username)
+                } else {
+                    navigateToHome(username, password)
+                }
             } else {
                 Toast.makeText(this, "Invalid username or password", Toast.LENGTH_SHORT).show()
             }
@@ -43,5 +48,15 @@ class LoginPage : AppCompatActivity() {
         intent.putExtra("username", username)
         intent.putExtra("password", password)
         startActivity(intent)
+        finish()
+    }
+
+    private fun navigateToFirstLoginLayouts(username: String, password: String) {
+        val intent = Intent(this, SelectLanguage::class.java)
+        intent.putExtra("username", username)
+        intent.putExtra("password", password)
+        startActivity(intent)
+        finish()
     }
 }
+
