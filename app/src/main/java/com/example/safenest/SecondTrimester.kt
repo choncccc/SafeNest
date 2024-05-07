@@ -1,59 +1,76 @@
 package com.example.safenest
-
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.safenest.databinding.FragmentSecondTrimesterBinding
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [SecondTrimester.newInstance] factory method to
- * create an instance of this fragment.
- */
 class SecondTrimester : Fragment() {
-    // TODO: Rename and change types of parameters
-    private var param1: String? = null
-    private var param2: String? = null
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
-        }
-    }
-
+    private lateinit var binding: FragmentSecondTrimesterBinding
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?,
     ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_second_trimester, container, false)
+        binding= FragmentSecondTrimesterBinding.inflate(inflater, container, false)
+        return binding.root
     }
 
-    companion object {
-        /**
-         * Use this factory method to create a new instance of
-         * this fragment using the provided parameters.
-         *
-         * @param param1 Parameter 1.
-         * @param param2 Parameter 2.
-         * @return A new instance of fragment SecondTrimester.
-         */
-        // TODO: Rename and change types and number of parameters
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            SecondTrimester().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
-            }
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+        binding.weekThirteenDescrip.setOnClickListener{
+           updateFragment(WeekThirteenDescrip())
+        }
+        binding.weekFourteenContents.setOnClickListener{
+            updateFragment(WeekFourteenDescrip())
+        }
+        binding.weekFifteenContents.setOnClickListener{
+            updateFragment(WeekFifteenDescrip())
+        }
+        binding.weekSixteenContents.setOnClickListener {
+            updateFragment(WeekSixteenDescrip())
+        }
+        binding.weekSeventeenContents.setOnClickListener {
+            updateFragment(WeekSeventeenDescrip())
+        }
+        binding.weekEighteenContents.setOnClickListener {
+            updateFragment(WeekEighteenDescrip())
+        }
+        binding.weekNineteenContents.setOnClickListener {
+            updateFragment(WeekNineteenDescrip())
+        }
+        binding.weekTwentyContents.setOnClickListener {
+            updateFragment(WeekTwentyDescrip())
+        }
+        binding.weekTwentyOneContents.setOnClickListener {
+            updateFragment(WeekTwentyOneDesctip())
+        }
+        binding.weekTwentyTwoContents.setOnClickListener {
+            updateFragment(WeekTwentyTwoDescrip())
+        }
+        binding.weekTwentyThreeContents.setOnClickListener {
+
+        }
+        binding.weekTwentyFourContents.setOnClickListener {
+
+        }
+        binding.weekTwentyFiveContents.setOnClickListener {
+
+        }
+        binding.weekTwentySixContents.setOnClickListener {
+
+        }
+        binding.weekTwentySevenContents.setOnClickListener {
+
+        }
+    }
+    private fun updateFragment(fragment: Fragment) {
+        val fragmentManager = requireActivity().supportFragmentManager
+        val fragmentTransaction = fragmentManager.beginTransaction()
+        fragmentTransaction.replace(R.id.frame_layout, fragment)
+        fragmentTransaction.addToBackStack(null) // Add to back stack so the previous fragment can be restored
+        fragmentTransaction.commit()
     }
 }

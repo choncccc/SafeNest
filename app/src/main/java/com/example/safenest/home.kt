@@ -23,6 +23,9 @@ class home : AppCompatActivity() {
             when (menuItem.itemId) {
                 R.id.home -> updateFragment(fragment_home.newInstance(username))
                 R.id.book -> updateFragment(ReadingFragment())
+                R.id.search -> updateFragment(FragmentSelfAssessment())
+                R.id.heart -> updateFragment(GuidedSelfCareEffiency())
+                R.id.menu -> updateFragment(Overview())
                 else -> {
                 }
             }

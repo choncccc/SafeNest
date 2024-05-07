@@ -73,6 +73,7 @@
             android:layout_width="wrap_content"
             android:layout_height="10dp"/>
         <EditText
+            android:id="@+id/lastDay"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:background="@drawable/edit_round"
@@ -108,6 +109,7 @@
             android:layout_height="7dp"/>
 
         <EditText
+            android:id="@+id/estimatedDue"
             android:layout_width="match_parent"
             android:layout_height="40dp"
             android:background="@drawable/edit_round"

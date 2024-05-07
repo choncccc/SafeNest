@@ -18,7 +18,6 @@ class fragment_selectLanguage : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?,
     ): View? {
-        // Inflate the layout for this fragment
         val view = inflater.inflate(R.layout.fragment_select_language, container, false)
         val spinner = view.findViewById<Spinner>(R.id.languageSpinner)
         btnNext = view.findViewById<Button>(R.id.btnNext)

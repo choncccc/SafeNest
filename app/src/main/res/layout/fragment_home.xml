@@ -5,12 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/red"
-    android:paddingTop="10dp"
-    android:paddingStart="20dp"
-    android:paddingEnd="20dp"
-    tools:context=".fragment_home">
+    tools:context=".home">
 
-    <!-- TODO: Update blank fragment layout -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -18,7 +14,8 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:layout_gravity="center|top">
             <TextView
                 android:id="@+id/text"
                 android:layout_width="wrap_content"
@@ -86,6 +83,7 @@
                     android:orientation="vertical"
                     android:layout_gravity="center">
                     <TextView
+                        android:id="@+id/HomeWeeks"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="@color/red"
@@ -104,10 +102,11 @@
                         android:progressTint="@color/red"/>
                 </LinearLayout>
                 <TextView
+                    android:id="@+id/HomeTrimester"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/red"
-                    android:layout_marginTop="10dp"
+                    android:layout_marginTop="15dp"
                     android:layout_gravity="right"
                     android:layout_marginEnd="25dp"
                     android:fontFamily="@font/glacial"
@@ -128,6 +127,7 @@
                     android:orientation="vertical"
                     android:layout_gravity="center">
                     <ImageView
+                        android:id="@+id/HomeDynamicImage"
                         android:layout_gravity="center"
                         android:layout_width="325dp"
                         android:paddingTop="5dp"
@@ -137,6 +137,7 @@
                         tools:ignore="RtlSymmetry" />
 
                     <TextView
+                        android:id="@+id/HomeDynamicText"
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
                         android:textColor="@color/white"
@@ -149,6 +150,10 @@
                         />
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:layout_gravity="bottom"/>
         </LinearLayout>
     </ScrollView>
 
