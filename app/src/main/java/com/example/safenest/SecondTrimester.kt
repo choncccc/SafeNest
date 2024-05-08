@@ -51,19 +51,19 @@ class SecondTrimester : Fragment() {
             updateFragment(WeekTwentyTwoDescrip())
         }
         binding.weekTwentyThreeContents.setOnClickListener {
-
+            updateFragment(WeekTwentyThreeDescrip())
         }
         binding.weekTwentyFourContents.setOnClickListener {
-
+            updateFragment(WeekTwentyFourDescrip())
         }
         binding.weekTwentyFiveContents.setOnClickListener {
-
+            updateFragment(WeekTwentyFiveDescrip())
         }
         binding.weekTwentySixContents.setOnClickListener {
-
+            updateFragment(WeekTwentySixDescrip())
         }
         binding.weekTwentySevenContents.setOnClickListener {
-
+            updateFragment(WeekTwentySevenDescrip())
         }
     }
     private fun updateFragment(fragment: Fragment) {
