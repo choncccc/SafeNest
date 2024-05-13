@@ -33,7 +33,38 @@ class ThirdTrimester : Fragment() {
         binding.weekThirtyOneDescrip.setOnClickListener {
             updateFragment(WeekThirtyOneDescrip())
         }
+        binding.weekThirtyTwoDescrip.setOnClickListener {
+            updateFragment(WeekThirtyTwoDescrip())
+        }
+        binding.weekThirtyThreeDescrip.setOnClickListener {
+            updateFragment(WeekThirtyThreeDescrip())
+        }
+        binding.weekThirtyFourDescrip.setOnClickListener {
+            updateFragment(WeekThirtyFourDescrip())
+        }
+        binding.weekThirtyFiveDescrip.setOnClickListener {
+            updateFragment(WeekThirtyFiveDescrip())
+        }
+        binding.weekThirtySixDescrip.setOnClickListener {
+            updateFragment(WeekThirtySixDescrip())
+        }
+        binding.weekThirtySevenDescrip.setOnClickListener {
+            updateFragment(WeekThirtySevenDescrip())
+        }
+        binding.weekThirtyEightDescrip.setOnClickListener {
+            updateFragment(WeekThirtyEightDescrip())
+        }
+        binding.weekThirtyNineDescrip.setOnClickListener {
+            updateFragment(WeekThirtyNineDesrip())
+        }
+        binding.weekFortyDescrip.setOnClickListener {
+            updateFragment(WeekFortyDescrip())
+        }
+        binding.weekFortyOneDescrip.setOnClickListener {
+            updateFragment(WeekFortyOneDescrip())
+        }
     }
+
 
     private fun updateFragment(fragment: Fragment) {
         val fragmentManager = requireActivity().supportFragmentManager
