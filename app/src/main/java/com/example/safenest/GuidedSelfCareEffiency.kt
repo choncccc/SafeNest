@@ -37,6 +37,9 @@ class GuidedSelfCareEffiency : Fragment() {
         binding.WeightTracker.setOnClickListener {
             updateFragment(WeightTracker())
         }
+        binding.SymptomsCheck.setOnClickListener {
+            updateFragment(SymptomsChecker())
+        }
     }
     private fun updateFragment(fragment: Fragment) {
         val fragmentManager = requireActivity().supportFragmentManager

@@ -3444,6 +3444,8 @@
         \n\t\t• Consult your doctor with any concerns or questions you have
         \n\t\t\tabout your pregnancy health and well-being
     </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
