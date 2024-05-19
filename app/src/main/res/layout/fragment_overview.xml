@@ -397,6 +397,173 @@
                     android:layout_gravity="center|end"
                     android:src="@drawable/party" />
             </androidx.cardview.widget.CardView>
+
+            <GridLayout
+                android:layout_width="360dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/overviewgrid"
+                android:columnCount="2"
+                android:rowCount="5">
+                <LinearLayout
+                    android:layout_marginTop="5dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_row="0"
+                    android:layout_column="0">
+                    <LinearLayout
+                        android:id="@+id/OverviewOther"
+                        android:layout_width="match_parent"
+                        android:layout_gravity="center|start"
+                        android:layout_height="50dp">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_gravity="center"
+                            android:text="Other"
+                            android:fontFamily="@font/glacial"
+                            android:textSize="16sp"
+                            android:textColor="@color/white" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="360dp"
+                        android:background="@color/peach"
+                        android:layout_height="2dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginBottom="5dp"
+                    android:layout_row="1"
+                    android:layout_column="0">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="50dp">
+                        <ImageView
+                            android:layout_width="40dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center"
+                            android:layout_marginStart="10dp"
+                            android:src="@drawable/whitelang"/>
+                        <TextView
+                            android:id="@+id/OverviewLanguage"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Language"
+                            android:layout_marginStart="10dp"
+                            android:fontFamily="@font/glacial"
+                            android:textSize="16sp"
+                            android:textColor="@color/white"/>
+                    </LinearLayout>
+                    <View
+                        android:layout_width="360dp"
+                        android:background="@color/peach"
+                        android:layout_height="2dp"/>
+
+                    <LinearLayout
+                        android:id="@+id/OverviewFeedback"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_row="3"
+                        android:layout_column="0">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp">
+                            <ImageView
+                                android:layout_width="40dp"
+                                android:layout_height="30dp"
+                                android:scaleType="centerCrop"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="10dp"
+                                android:src="@drawable/baseline_email_24"/>
+                            <TextView
+
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Feedback"
+                                android:layout_marginStart="10dp"
+                                android:fontFamily="@font/glacial"
+                                android:textSize="16sp"
+                                android:textColor="@color/white"/>
+                        </LinearLayout>
+                        <View
+                            android:layout_width="360dp"
+                            android:background="@color/peach"
+                            android:layout_height="2dp"/>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:id="@+id/OverviewInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_row="4"
+                        android:layout_column="0">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp">
+                            <ImageView
+                                android:layout_width="40dp"
+                                android:layout_height="35dp"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="10dp"
+                                android:src="@drawable/baseline_info_24"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Information"
+                                android:layout_marginStart="10dp"
+                                android:fontFamily="@font/glacial"
+                                android:textSize="16sp"
+                                android:textColor="@color/white"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <View
+                        android:layout_width="360dp"
+                        android:background="@color/peach"
+                        android:layout_height="2dp"/>
+                    <LinearLayout
+                        android:id="@+id/OverviewAboutApp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_row="4"
+                        android:layout_column="0">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp">
+                            <ImageView
+                                android:layout_width="40dp"
+                                android:layout_height="35dp"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="10dp"
+                                android:src="@drawable/baseline_child_care_24"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="About App"
+                                android:layout_marginStart="10dp"
+                                android:fontFamily="@font/glacial"
+                                android:textSize="16sp"
+                                android:textColor="@color/white"/>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </LinearLayout>
+            </GridLayout>
+
             <Space
                 android:layout_width="match_parent"
                 android:layout_height="5dp"

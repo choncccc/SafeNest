@@ -3444,8 +3444,118 @@
         \n\t\t• Consult your doctor with any concerns or questions you have
         \n\t\t\tabout your pregnancy health and well-being
     </string>
+
+
+    <string name="agreement_title">GENERAL TERMS</string>
+    <string name="agreement_1_1">
+        • The mobile application "SafeNest" was made by and is the property of Lou Sophia M. Laud, Noela Mae E. Malong, Myrh Leslie M. Radam, Kristine B. Servania, and Regine A. Tacuban. The current user agreement regulates your usage of the application.
+    </string>
+    <string name="agreement_1_2">
+        • The "SafeNest" mobile application, contingent upon the wholehearted adherence to the agreement, is an informative application, developed for mobile devices operating the android operating systems. The right to the intellectual property of the application is owned by the researchers.
+    </string>
+    <string name="agreement_1_3">
+        • By installing and using the application, you agree to the conditions of our current agreement. If you do not agree with any of the clauses in our current agreement, you do not have the right to use the application.
+    </string>
+    <string name="agreement_1_4">
+        • The copyright holder has the right to introduce any changes to the current agreement without prior notice. New revisions to the agreement enter into force from the moment they appear on the application. You commit to monitoring changes to the agreement yourself. Continuing to use the application after changes are made to the current agreement will indicate your agreement with these changes.
+    </string>
+    <string name="agreement_1_5">
+        • Appeals, suggestions and complaints by natural and legal persons to the copyright holder linked to the content and function of the application, the violation of rights and interests of third parties, can be sent to the e-mail address safenestdigitalcompanion@gmail.com.
+    </string>
+
+    <string name="agreement_2_title">TERMS OF USE</string>
+    <string name="agreement_2_1">
+        • The user is obliged to duly follow the conditions of our current agreement.
+    </string>
+    <string name="agreement_2_2">
+        • The user commits to not use the application for any purpose other than for the purpose of non-commercial personal use.
+    </string>
+    <string name="agreement_2_4">
+       • The user is prohibited from performing the activities listed below, and they are obliged not to perform them.
+    </string>
+    <string name="agreement_2_4_1">
+        ○ Studying and learning the technology, decompilation, disassembling, modifying, as well as attempting to obtain the application\'s source code by any means.
+    </string>
+    <string name="agreement_2_4_2">
+        ○ Using our trademark or logo, or the company content without our explicit written permission.
+    </string>
+    <string name="agreement_2_4_3">
+        ○ Modifying the application by making changes to or forging the instructions and data when the application is operating, as well as any use or distribution of the application and making it available to the general public for commercial and non-commercial purposes.
+    </string>
+    <string name="agreement_2_4_4">
+        ○ Copying and modifying the application, creating derivative goods based on it.
+    </string>
+    <string name="agreement_2_4_5">
+        ○ Distributing or transferring to a third party (including to rent or on loan).
+    </string>
+    <string name="agreement_2_4_6">
+        ○ Distributing false or derogatory claims to mislead or deceive, as well as to cause harm or damage to the researchers and its affiliates.
+    </string>
+    <string name="agreement_2_4_7">
+        ○ Performing actions which will or could cause harm or damage to the researchers.
+    </string>
+    <string name="agreement_2_4_8">
+        ○ Impersonating another person, as well as falsely claiming to be linked to the researchers or our affiliates.
+    </string>
+    <string name="agreement_2_4_9">
+        ○ Inducing other individuals to perform the activities listed or enabling them to perform any of the activities listed.
+    </string>
+    <string name="agreement_2_5">
+        • The user acknowledges that the application is solely intended for educational purposes and may not be used as a replacement for medical recommendations, diagnosis or treatment.
+    </string>
+    <string name="agreement_2_6">
+        • The user understands that the application does not guarantee and does not claim the accuracy of the information provided.
+    </string>
+
+    <string name="agreement_3_title">RIGHTS AND OBLIGATIONS OF THE RESEARCHERS</string>
+    <string name="agreement_3_1">
+        • The researchers have the right to send information about the functionality of the application to the user by any means - including by placing informative and other messages within the application.
+    </string>
+    <string name="agreement_3_2">
+        • The researchers have the right to transfer the rights and obligations of the current agreement to third parties for the purpose of fulfilling the current agreement without further consent of the user.
+    </string>
+    <string name="agreement_3_3">
+        • The copyright holder has the right, when necessary, at the copyright holder\'s discretion to block or limit access to the application to all users or to an individual user in particular without notice in advance, including in the event the user breaks the conditions of the agreement.
+    </string>
+    <string name="agreement_3_4">
+       • The researchers have the right to collect and use technical data and information linked to it, as well as information on the software of the user\'s device, system and applications. The researchers have the right to use this information (on the condition that it is impossible to identify the identity of the user) for the purpose of improving its products or to offer the user its services and technologies.
+    </string>
+    <string name="agreement_3_6">
+        • The researchers have the right to modify and delete any content in the application at its discretion.
+    </string>
+
+    <string name="agreement_4_title">EXCLUSIVE RIGHTS TO THE APPLICATION</string>
+    <string name="agreement_4_1">
+        • All materials and services provided available in the application, including trademark, design elements, text, graphics and images, sounds, illustrations and other materials, are subjects of exclusive rights and/or personal non-property rights of the copyright holders.
+    </string>
+    <string name="agreement_4_2">
+        • Using the contents of the application is only possible within the functional confines offered by the application. The contents of the application cannot be used in any other way without the prior written consent of the copyright holder.
+    </string>
+    <string name="agreement_4_3">
+        • The use of the contents of the application by the user for personal, non-commercial use is allowed under the condition that all signs of copyright protection, related rights, trademarks, and other notices of authorship, and name of authorship are preserved.
+    </string>
+
+    <string name="agreement_5_title">GUARANTEES AND RESPONSIBILITIES OF THE PARTIES</string>
+    <string name="agreement_5_1">
+        • Third parties may be involved to implement the current agreement. The user confirms that the third parties have the same rights as the owner of the rights to the application.
+    </string>
+    <string name="agreement_5_2">
+        • The user guarantees that he/she will not take any type of action intended to cause damage to the rights holder of the application, the copyright holder and other parties.
+    </string>
+    <string name="agreement_5_3">
+        • If the user does not prove otherwise, any action performed by using their mobile device is considered to have been performed by the corresponding user.
+    </string>
+
+    <string name="agreement_6_title">OTHER PROVISIONS</string>
+    <string name="agreement_6_1">
+        • Our current agreement enters into force for the user from the moment the application is installed on their mobile device. The current agreement is valid indefinitely.
+    </string>
+    <string name="agreement_6_2">
+        • The current agreement may be changed and/or added to by the copyright holders at any time during the duration of the validity of the agreement. All changes and/or additions by the copyright holders are placed in the corresponding section of the application and enter into force the day of their placement. The user agrees to timely and independently familiarize themselves with all the changes and/or additions. If there are any objections, the user has the right to make and send notice within 3 calendar days from the moment of the placement of changes and/or additions to the agreement. In this case, the agreement will be considered to be terminated by the parties from the date the copyright holder receives such notice from the user.
+    </string>
+    <string name="agreement_6_3">
+        • If any of the clauses of the current agreement are recognized as invalid, this will not bear any influence or effect on the validity or application of the remaining clauses of the current agreement.
+    </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-
-
 </resources>
