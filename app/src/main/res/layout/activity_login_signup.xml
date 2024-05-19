@@ -43,7 +43,7 @@
             android:textColor="@color/white"
             android:layout_gravity="center"
             />
-        <Space
+        <androidx.legacy.widget.Space
             android:layout_width="wrap_content"
             android:layout_height="50dp"
             />
@@ -55,7 +55,7 @@
             android:backgroundTint="@color/peach"
             android:text="LOG IN"
             android:textColor="@color/red"/>
-        <Space
+        <androidx.legacy.widget.Space
             android:layout_width="wrap_content"
             android:layout_height="5dp"
             />
